@@ -1,7 +1,7 @@
-package hu.flowacademy.controller;
+package hu.flowacademy.kappaspringteszt.controller;
 
-import hu.flowacademy.entities.SuperHero;
-import hu.flowacademy.service.SuperHeroService;
+import hu.flowacademy.kappaspringteszt.entities.SuperHero;
+import hu.flowacademy.kappaspringteszt.service.SuperHeroService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

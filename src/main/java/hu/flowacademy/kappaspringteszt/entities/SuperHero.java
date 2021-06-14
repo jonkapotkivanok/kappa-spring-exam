@@ -1,4 +1,4 @@
-package hu.flowacademy.entities;
+package hu.flowacademy.kappaspringteszt.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

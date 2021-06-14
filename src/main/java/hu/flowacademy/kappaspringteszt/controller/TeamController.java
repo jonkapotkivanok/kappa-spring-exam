@@ -1,7 +1,7 @@
-package hu.flowacademy.controller;
+package hu.flowacademy.kappaspringteszt.controller;
 
-import hu.flowacademy.entities.Team;
-import hu.flowacademy.service.TeamService;
+import hu.flowacademy.kappaspringteszt.entities.Team;
+import hu.flowacademy.kappaspringteszt.service.TeamService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

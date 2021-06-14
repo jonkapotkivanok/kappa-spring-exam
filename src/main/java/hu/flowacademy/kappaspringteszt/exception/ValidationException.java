@@ -1,4 +1,4 @@
-package hu.flowacademy.exception;
+package hu.flowacademy.kappaspringteszt.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.server.ResponseStatusException;

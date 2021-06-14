@@ -1,6 +1,6 @@
-package hu.flowacademy.repository;
+package hu.flowacademy.kappaspringteszt.repository;
 
-import hu.flowacademy.entities.SuperHero;
+import hu.flowacademy.kappaspringteszt.entities.SuperHero;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

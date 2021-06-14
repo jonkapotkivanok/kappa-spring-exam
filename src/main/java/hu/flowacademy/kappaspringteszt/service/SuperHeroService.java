@@ -1,11 +1,11 @@
-package hu.flowacademy.service;
+package hu.flowacademy.kappaspringteszt.service;
 
-import hu.flowacademy.entities.Kind;
-import hu.flowacademy.entities.SuperHero;
-import hu.flowacademy.entities.Team;
-import hu.flowacademy.exception.ValidationException;
-import hu.flowacademy.repository.SuperHeroRepository;
-import hu.flowacademy.repository.TeamRepository;
+import hu.flowacademy.kappaspringteszt.entities.Kind;
+import hu.flowacademy.kappaspringteszt.entities.SuperHero;
+import hu.flowacademy.kappaspringteszt.entities.Team;
+import hu.flowacademy.kappaspringteszt.exception.ValidationException;
+import hu.flowacademy.kappaspringteszt.repository.SuperHeroRepository;
+import hu.flowacademy.kappaspringteszt.repository.TeamRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
